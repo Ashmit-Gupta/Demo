@@ -1,3 +1,3 @@
 # Demo
 <br>
-Learning Git and Github
+Learning Git and Github via Apna College 
